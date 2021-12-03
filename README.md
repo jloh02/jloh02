@@ -41,6 +41,7 @@ Yes! You can find it at https://jloh02.github.io
 - Dart/Flutter Frontend development (2018-2021) ![][flutter] ![][dart]
 - Capture the Flag Competitions (2018-2021) ![][python]
 - Machine Learning (2019-2020) ![][keras] ![][tensorflow] ![][python]
+- Basic Golang Backend development ![][golang]
 - Vue.js (2021) ![][vue] ![][js]
 - C++ Windows Development with Discord Presence (2021) ![][cpp]
 
@@ -50,6 +51,7 @@ Yes! You can find it at https://jloh02.github.io
 [cpp]: https://img.shields.io/badge/Language-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=00599C
 [dart]: https://img.shields.io/badge/Language-Dart-informational?style=flat&logo=dart&logoColor=white&color=0175C2
 [flutter]: https://img.shields.io/badge/Platform-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=02569B
+[golang]: https://img.shields.io/badge/Language-Go-informational?style=flat&logo=go&logoColor=white&color=00ADD8
 [java]: https://img.shields.io/badge/Language-Java-informational?style=flat&logo=java&logoColor=white&color=007396
 [js]: https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E
 [keras]: https://img.shields.io/badge/Tool-Keras-informational?style=flat&logo=keras&logoColor=white&color=D00000
