@@ -33,13 +33,13 @@ Yes! You can find it at https://jloh02.github.io
 - STACK the Flags Capture the Flag Competition 2020 (3rd Place)
 
 ### What areas of STEM development/exploration have I done?
-- VEX Robotics coding (2015-2020) ![][cpp]
+- [VEX Robotics](https://github.com/jloh02/VEX-Worlds-2019-8059A) (2015-2020) ![][cpp]
 - RoboCup (2016-2017) ![][arduino] ![][cpp]
-- Arduino (2016-2020) ![][arduino] ![][cpp]
-- Java Backend development using Spring (2017-2021) ![][spring] ![][java]
+- [Arduino](https://github.com/jloh02/SICC) (2016-2020) ![][arduino] ![][cpp]
+- [Java Backend development using Spring](https://github.com/jloh02/SGRouter) (2017-2021) ![][spring] ![][java]
 - Java Frontend development using Android Studio (2017) ![][android] ![][java]
 - Dart/Flutter Frontend development (2018-2021) ![][flutter] ![][dart]
-- Capture the Flag Competitions (2018-2021) ![][python]
+- [Capture the Flag](https://jloh02.github.io/ctf/stack-the-flags-2020) Competitions (2018-2021) ![][python]
 - Machine Learning (2019-2020) ![][keras] ![][tensorflow] ![][python]
 - Basic Golang Backend development ![][golang]
 - Vue.js (2021) ![][vue] ![][js]
