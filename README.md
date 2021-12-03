@@ -29,11 +29,11 @@ I'm an undergraduate developer who loves coding anything under the sun. I enjoy 
 Yes! You can find it at https://jloh02.github.io
 
 ### What are my proudest achievements?
-- VEX Robotics World Championship 2019 (3rd Place)
+- [VEX Robotics World Championship 2019](https://github.com/jloh02/VEX-Worlds-2019-8059A) (3rd Place)
 - STACK the Flags Capture the Flag Competition 2020 (3rd Place)
 
 ### What areas of STEM development/exploration have I done?
-- [VEX Robotics](https://github.com/jloh02/VEX-Worlds-2019-8059A) (2015-2020) ![][cpp]
+- [VEX Robotics](https://jloh02.github.io/robotics) (2015-2020) ![][cpp]
 - RoboCup (2016-2017) ![][arduino] ![][cpp]
 - [Arduino](https://github.com/jloh02/SICC) (2016-2020) ![][arduino] ![][cpp]
 - [Java Backend development using Spring](https://github.com/jloh02/SGRouter) (2017-2021) ![][spring] ![][java]
@@ -41,9 +41,9 @@ Yes! You can find it at https://jloh02.github.io
 - Dart/Flutter Frontend development (2018-2021) ![][flutter] ![][dart]
 - [Capture the Flag](https://jloh02.github.io/ctf/stack-the-flags-2020) Competitions (2018-2021) ![][python]
 - Machine Learning (2019-2020) ![][keras] ![][tensorflow] ![][python]
-- Basic Golang Backend development ![][golang]
-- Vue.js (2021) ![][vue] ![][js]
-- C++ Windows Development with Discord Presence (2021) ![][cpp]
+- [Basic Golang Backend](https://github.com/jloh02/valorant-discord-presence/tree/master/web-backend) ![][golang]
+- [Basic Vue.js](https://github.com/jloh02/valorant-discord-presence/tree/master/webpage) (2021) ![][vue] ![][js]
+- [C++ Windows Development with Discord Presence](https://github.com/jloh02/valorant-discord-presence) (2021) ![][cpp]
 
 
 [android]: https://img.shields.io/badge/Platform-Android-informational?style=flat&logo=android&logoColor=white&color=3DDC84
