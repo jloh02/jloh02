@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## GitHub Stats
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jloh02&count_private=true&show_icons=true&theme=github_dark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jloh02&theme=github_dark&exclude_repo=valorant-discord-presence&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jloh02&theme=github_dark&exclude_repo=jloh02.github.io&langs_count=3" />
 </p>
 
 
