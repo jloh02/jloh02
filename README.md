@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 I'm an undergraduate developer who loves coding anything under the sun. I enjoy learning new things and I can grasp new concepts pretty fast.
 
 ### Do I have a blog?
-Yes! You can find it at https://jloh02.github.io
+Yes! You can find it at https://blog.jloh02.dev
 
 ### What are my proudest achievements?
 - [VEX Robotics World Championship 2019](https://github.com/jloh02/VEX-Worlds-2019-8059A) (3rd Place)
