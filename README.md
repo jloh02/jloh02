@@ -45,7 +45,7 @@ Yes! You can find it at https://blog.jloh02.dev
 - [Basic Golang Backend](https://github.com/jloh02/valorant-discord-presence/tree/master/web-backend) ![][golang]
 - [C++ Windows Development with Discord Presence](https://github.com/jloh02/valorant-discord-presence) (2021) ![][cpp]
 - [Vue.js with Electron and Vite](https://github.com/jloh02/valorant-chat-client/) (2022) ![][vue] ![][ts] ![][electron] ![][vite]
-- [NUS Mods Contributor](https://github.com/nusmodifications/nusmods) (2023-2024) ![][react] ![][ts]
+- [NUSMods Maintainer](https://github.com/nusmodifications/nusmods) (2023-2025) ![][react] ![][ts]
 - [Treeckle Developer](https://github.com/CAPTxTreeckle/Treeckle-3.0) (2023-2024) ![][react] ![][ts] ![][python] ![][docker]
 
 
