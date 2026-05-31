@@ -10,11 +10,7 @@
 
 ## About Me
 
-I'm a **Computer Science undergraduate at NUS** who builds at the intersection of hardware and software — from competition robots to payment backends.
-
-Currently a **Backend Software Engineer Intern at Tencent** (cross-border payments). Previously interned at **TikTok Live Wallet** and **GovTech WOGAA**. I lead [**NUS Hackers**](https://www.nus-hackers.org) as President, author CTF challenges for [**NUS Greyhats**](https://github.com/NUSGreyhats), and maintain [**NUSMods**](https://github.com/nusmodifications/nusmods).
-
-I like shipping things that make life a little easier — whether that's a venue booking system, a transit router, or a challenge that makes you stare at a memory dump at 2am.
+I'm a hacker (in both senses, probably) who builds at the intersection of hardware and software, occasionally dabbling in cybersecurity. I like shipping things that make life a little easier — whether that's a venue booking system, a transit router, or a challenge that makes you stare at a memory dump at 2am.
 
 **Elsewhere:** [Blog](https://blog.jloh02.dev) · [LinkedIn](https://www.linkedin.com/in/jonathan-loh-junhao) · [CTF writeups](https://jloh02.github.io/ctf) · [Robotics portfolio](https://jloh02.github.io/robotics)
 
