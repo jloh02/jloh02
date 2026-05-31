@@ -37,23 +37,23 @@ Yes! You can find it at https://blog.jloh02.dev
 Challenges I've authored for [NUS Greyhats](https://github.com/NUSGreyhats) events.
 
 #### Hackbash 2024
-- [Walk Down Memory Lane](https://github.com/NUSGreyhats/hackbash-2024-public/tree/main/forensics/finals/Walk%20Down%20Memory%20Lane) ![][forensics] ![][python]
+- [Walk Down Memory Lane](https://github.com/NUSGreyhats/hackbash-2024-public/tree/main/forensics/finals/Walk%20Down%20Memory%20Lane) - Volatility memory forensics, process analysis, and file carving from a Windows dump ![][forensics] ![][python]
 
 #### GreyCTF 2024
-- [Maze Runner](https://github.com/NUSGreyhats/greyctf24-challs-public/tree/main/quals/misc/Maze-Runner) ![][misc]
-- [Poly Playground](https://github.com/NUSGreyhats/greyctf24-challs-public/tree/main/quals/misc/Poly-Playground) ![][misc]
-- [All About Timing](https://github.com/NUSGreyhats/greyctf24-challs-public/tree/main/quals/misc/All-About-Timing) ![][misc]
+- [Maze Runner](https://github.com/NUSGreyhats/greyctf24-challs-public/tree/main/quals/misc/Maze-Runner) - Phase through maze walls via WebSocket movement logic bug ![][misc]
+- [Poly Playground](https://github.com/NUSGreyhats/greyctf24-challs-public/tree/main/quals/misc/Poly-Playground) - Derive polynomial coefficients from their roots ![][misc]
+- [All About Timing](https://github.com/NUSGreyhats/greyctf24-challs-public/tree/main/quals/misc/All-About-Timing) - Predict tokens seeded from connection time in seconds ![][misc]
 
 #### Welcome CTF 2025
-- [Nus Geographer](https://github.com/NUSGreyhats/welcome-ctf-2025-public/tree/main/misc/nus_geographer) ![][misc]
+- [NUS Geographer](https://github.com/NUSGreyhats/welcome-ctf-2025-public/tree/main/misc/nus_geographer) - Decode Bluey's NUS walk diary into a hidden message ![][misc]
 
 #### GreyCTF 2025
-- [Rainbow Road](https://github.com/NUSGreyhats/greyctf25-challs-public/tree/main/qualifiers/web/rainbow-road) ![][web] ![][javascript] — [source](https://github.com/jloh02/greyctf-2025-challs-rainbow-road) · [writeup](https://blog.jloh02.dev/ctf/greyctf-rainbow-road/)
+- [Rainbow Road](https://github.com/NUSGreyhats/greyctf25-challs-public/tree/main/qualifiers/web/rainbow-road) ([source](https://github.com/jloh02/greyctf-2025-challs-rainbow-road)) - Abuse WebSocket disconnect state to bypass maze walls and reconstruct the flag ![][web] ![][javascript] · [writeup](https://blog.jloh02.dev/ctf/greyctf-rainbow-road/)
 
 #### GreyCTF 2026
-- [67](https://github.com/NUSGreyhats/greyctf26-challs/tree/main/quals/misc/67) ![][misc] ![][javascript] ![][python] — [source](https://github.com/jloh02/greyctf-2026-67)
-- [SeeTeeEffedIn](https://github.com/NUSGreyhats/greyctf26-challs/tree/main/quals/web/seeteeeffed-in) ![][web] ![][python] ![][postgresql] — [source](https://github.com/jloh02/greyctf-2026-seeteeeffed-in)
-- [Go Going Goen](https://github.com/NUSGreyhats/greyctf26-challs/tree/main/quals/web/go_going_goen) ![][web] ![][python] ![][ts] ![][postgresql] — [source](https://github.com/jloh02/greyctf-2026-go-going-goen)
+- [67](https://github.com/NUSGreyhats/greyctf26-challs/tree/main/quals/misc/67) ([source](https://github.com/jloh02/greyctf-2026-67)) - Reach score 67 in anti-cheat server-verified hand-gesture Flappy Bird ![][misc] ![][javascript] ![][python]
+- [SeeTeeEffedIn](https://github.com/NUSGreyhats/greyctf26-challs/tree/main/quals/web/seeteeeffed-in) ([source](https://github.com/jloh02/greyctf-2026-seeteeeffed-in)) - Exploit PostgreSQL CVE-2026-6637 refint cascade SQL injection ![][web] ![][python] ![][postgresql]
+- [Go Going Goen](https://github.com/NUSGreyhats/greyctf26-challs/tree/main/quals/web/go_going_goen) ([source](https://github.com/jloh02/greyctf-2026-go-going-goen)) - Chain PostgreSQL READ COMMITTED race conditions across three ladder-climbing stages ![][web] ![][python] ![][ts] ![][postgresql]
 
 ### What areas of STEM development/exploration have I done?
 - [VEX Robotics](https://jloh02.github.io/robotics) (2015-2020) ![][cpp]
@@ -91,5 +91,5 @@ Challenges I've authored for [NUS Greyhats](https://github.com/NUSGreyhats) even
 [misc]: https://img.shields.io/badge/Category-Misc-informational?style=flat&color=808080
 [web]: https://img.shields.io/badge/Category-Web-informational?style=flat&logo=html5&logoColor=white&color=E34F26
 [forensics]: https://img.shields.io/badge/Category-Forensics-informational?style=flat&color=6B4226
-[javascript]: https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=black&color=F7DF1E
+[javascript]: https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E
 [postgresql]: https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1
