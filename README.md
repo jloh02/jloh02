@@ -1,18 +1,6 @@
 <!--
 **jloh02/jloh02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-
 
 ## GitHub Stats
 <p>
@@ -20,55 +8,140 @@ Here are some ideas to get you started:
   <img align="center" src="./profile/top-langs.svg" />
 </p>
 
-
 ## About Me
-### Who am I?
-I'm an undergraduate developer who loves coding anything under the sun. I enjoy learning new things and I can grasp new concepts pretty fast.
 
-### Do I have a blog?
-Yes! You can find it at https://blog.jloh02.dev
+I'm a **Computer Science undergraduate at NUS** who builds at the intersection of hardware and software — from competition robots to payment backends.
 
-### What are my proudest achievements?
-- [VEX Robotics World Championship 2019](https://github.com/jloh02/VEX-Worlds-2019-8059A) (3rd Place)
-- [STACK the Flags Capture the Flag Competition 2020](https://jloh02.github.io/ctf/stack-the-flags-2020) (3rd Place)
-- [STACK the Codes Hackathon 2022](https://blog.jloh02.dev/projects/stack-the-codes-2022/) (1st Place)
+Currently a **Backend Software Engineer Intern at Tencent** (cross-border payments). Previously interned at **TikTok Live Wallet** and **GovTech WOGAA**. I lead [**NUS Hackers**](https://www.nus-hackers.org) as President, author CTF challenges for [**NUS Greyhats**](https://github.com/NUSGreyhats), and maintain [**NUSMods**](https://github.com/nusmodifications/nusmods).
 
-### CTF challenges I've created
-Challenges I've authored for [NUS Greyhats](https://github.com/NUSGreyhats) events.
+I like shipping things that make life a little easier — whether that's a venue booking system, a transit router, or a challenge that makes you stare at a memory dump at 2am.
 
-#### Hackbash 2024
-- [Walk Down Memory Lane](https://github.com/NUSGreyhats/hackbash-2024-public/tree/main/forensics/finals/Walk%20Down%20Memory%20Lane) - Volatility memory forensics, process analysis, and file carving from a Windows dump ![][forensics] ![][python]
+**Elsewhere:** [Blog](https://blog.jloh02.dev) · [LinkedIn](https://www.linkedin.com/in/jonathan-loh-junhao) · [CTF writeups](https://jloh02.github.io/ctf) · [Robotics portfolio](https://jloh02.github.io/robotics)
 
-#### GreyCTF 2024
-- [Maze Runner](https://github.com/NUSGreyhats/greyctf24-challs-public/tree/main/quals/misc/Maze-Runner) - Phase through maze walls via WebSocket movement logic bug ![][misc]
-- [Poly Playground](https://github.com/NUSGreyhats/greyctf24-challs-public/tree/main/quals/misc/Poly-Playground) - Derive polynomial coefficients from their roots ![][misc]
-- [All About Timing](https://github.com/NUSGreyhats/greyctf24-challs-public/tree/main/quals/misc/All-About-Timing) - Predict tokens seeded from connection time in seconds ![][misc]
+---
 
-#### Welcome CTF 2025
-- [NUS Geographer](https://github.com/NUSGreyhats/welcome-ctf-2025-public/tree/main/misc/nus_geographer) - Decode Bluey's NUS walk diary into a hidden message ![][misc]
+## Highlights
 
-#### GreyCTF 2025
-- [Rainbow Road](https://github.com/NUSGreyhats/greyctf25-challs-public/tree/main/qualifiers/web/rainbow-road) ([source](https://github.com/jloh02/greyctf-2025-challs-rainbow-road)) - Abuse WebSocket disconnect state to bypass maze walls and reconstruct the flag ![][web] ![][javascript] · [writeup](https://blog.jloh02.dev/ctf/greyctf-rainbow-road/)
+### Cybersecurity & CTF
 
-#### GreyCTF 2026
-- [67](https://github.com/NUSGreyhats/greyctf26-challs/tree/main/quals/misc/67) ([source](https://github.com/jloh02/greyctf-2026-67)) - Reach score 67 in anti-cheat server-verified hand-gesture Flappy Bird ![][misc] ![][javascript] ![][python]
-- [SeeTeeEffedIn](https://github.com/NUSGreyhats/greyctf26-challs/tree/main/quals/web/seeteeeffed-in) ([source](https://github.com/jloh02/greyctf-2026-seeteeeffed-in)) - Exploit PostgreSQL CVE-2026-6637 refint cascade SQL injection ![][web] ![][python] ![][postgresql]
-- [Go Going Goen](https://github.com/NUSGreyhats/greyctf26-challs/tree/main/quals/web/go_going_goen) ([source](https://github.com/jloh02/greyctf-2026-go-going-goen)) - Chain PostgreSQL READ COMMITTED race conditions across three ladder-climbing stages ![][web] ![][python] ![][ts] ![][postgresql]
+| | |
+|---|---|
+| **2nd** | [BrainHack CDDC 2024](https://www.linkedin.com/in/jonathan-loh-junhao) — DSTA Inter-Uni Capture-the-Flag |
+| **3rd** | [STACK the Flags 2020](https://jloh02.github.io/ctf/stack-the-flags-2020) — GovTech 48-hour jeopardy CTF |
+| **Silver** | National Olympiad in Informatics 2020 (C++) |
+| **Award** | Cyberthon 2020 — 3rd overall & Data Science category |
 
-### What areas of STEM development/exploration have I done?
-- [VEX Robotics](https://jloh02.github.io/robotics) (2015-2020) ![][cpp]
-- RoboCup (2016-2017) ![][arduino] ![][cpp]
-- [Arduino](https://github.com/jloh02/SICC) (2016-2020) ![][arduino] ![][cpp]
-- [Java Backend development using Spring](https://github.com/jloh02/SGRouter) (2017-2021) ![][spring] ![][java]
-- Java Frontend development using Android Studio (2017) ![][android] ![][java]
-- Dart/Flutter Frontend development (2018-2021) ![][flutter] ![][dart]
-- [Capture the Flag](https://jloh02.github.io/ctf) Competitions & Challenge Authoring (2018–present) ![][python]
-- Machine Learning (2019-2020) ![][keras] ![][tensorflow] ![][python]
-- [Basic Golang Backend](https://github.com/jloh02/valorant-discord-presence/tree/master/web-backend) ![][golang]
-- [C++ Windows Development with Discord Presence](https://github.com/jloh02/valorant-discord-presence) (2021) ![][cpp]
-- [Vue.js with Electron and Vite](https://github.com/jloh02/valorant-chat-client/) (2022) ![][vue] ![][ts] ![][electron] ![][vite]
-- [NUSMods Maintainer](https://github.com/nusmodifications/nusmods) (2023-2025) ![][react] ![][ts]
-- [Treeckle Developer](https://github.com/CAPTxTreeckle/Treeckle-3.0) (2023-2024) ![][react] ![][ts] ![][python] ![][docker]
+### Hackathons
+
+| | |
+|---|---|
+| **1st + Most Innovative** | [STACK the Codes 2022](https://blog.jloh02.dev/projects/stack-the-codes-2022/) |
+| **Most Entertaining** | [Hack&Roll 2023](https://devpost.com/software/attention-hdkf69) — *Attention*, PvP maze game (Socket.io backend) |
+| **Top 8** | [Hack&Roll 2022](https://devpost.com/software/capslock) — *CAPSLOCK*, 1v1 typing game (high school participant) |
+
+### Robotics & Hardware
+
+| | |
+|---|---|
+| **3rd + Math Division Champion** | [VEX Robotics World Championship 2019](https://github.com/jloh02/VEX-Worlds-2019-8059A) — Division Champions, Round Robin Finals |
+| **1st + Excellence** | Singapore VRC National Championship 2019 |
+| **Silver** | Zhang Heng Engineering Award — [FIRST Global Challenge 2019](https://jloh02.github.io/robotics) (Team Singapore) |
+| **Protocol** | [SICC](https://github.com/jloh02/SICC) — custom half-duplex serial protocol for reliable Arduino IC communication |
+
+### Academic & Community
+
+- [**NUSMods**](https://nusmods.com) ([source](https://github.com/nusmodifications/nusmods)) — Maintainer (2023–2025)
+- [**Treeckle**](https://treeckle.com) ([source](https://github.com/CAPTxTreeckle/Treeckle-3.0)) — Tech Development Head, venue booking for CAPT (~100 MAU)
+- **CAPT Mass Recruitment** — Led tooling for 20+ committees, 200+ applicants ([bot](https://github.com/Capt-Tech/mass-recruitment-bot))
+- **Greyhats × CNA** — Built screen-recording tooling for [Talking Point: repair shop privacy](https://www.channelnewsasia.com/cna-insider/phone-laptop-repair-shops-snooping-copying-data-tech-devices-4862646)
+
+---
+
+## CTF Challenges I've Authored
+
+Challenges for [NUS Greyhats](https://github.com/NUSGreyhats) events — [full list on my blog](https://jloh02.github.io/ctf).
+
+<details>
+<summary><b>Hackbash 2024</b></summary>
+
+- [Walk Down Memory Lane](https://github.com/NUSGreyhats/hackbash-2024-public/tree/main/forensics/finals/Walk%20Down%20Memory%20Lane) — Volatility memory forensics, process analysis, and file carving from a Windows dump ![][forensics] ![][python]
+
+</details>
+
+<details>
+<summary><b>GreyCTF 2024</b></summary>
+
+- [Maze Runner](https://github.com/NUSGreyhats/greyctf24-challs-public/tree/main/quals/misc/Maze-Runner) — Phase through maze walls via WebSocket movement logic bug ![][misc]
+- [Poly Playground](https://github.com/NUSGreyhats/greyctf24-challs-public/tree/main/quals/misc/Poly-Playground) — Derive polynomial coefficients from their roots ![][misc]
+- [All About Timing](https://github.com/NUSGreyhats/greyctf24-challs-public/tree/main/quals/misc/All-About-Timing) — Predict tokens seeded from connection time in seconds ![][misc]
+
+</details>
+
+<details>
+<summary><b>Welcome CTF 2025</b></summary>
+
+- [NUS Geographer](https://github.com/NUSGreyhats/welcome-ctf-2025-public/tree/main/misc/nus_geographer) — Decode Bluey's NUS walk diary into a hidden message ![][misc]
+
+</details>
+
+<details>
+<summary><b>GreyCTF 2025</b></summary>
+
+- [Rainbow Road](https://github.com/NUSGreyhats/greyctf25-challs-public/tree/main/qualifiers/web/rainbow-road) ([source](https://github.com/jloh02/greyctf-2025-challs-rainbow-road)) — Abuse WebSocket disconnect state to bypass maze walls ![][web] ![][javascript] · [writeup](https://blog.jloh02.dev/ctf/greyctf-rainbow-road/)
+
+</details>
+
+<details>
+<summary><b>GreyCTF 2026</b></summary>
+
+- [67](https://github.com/NUSGreyhats/greyctf26-challs/tree/main/quals/misc/67) ([source](https://github.com/jloh02/greyctf-2026-67)) — Reach score 67 in server-verified hand-gesture Flappy Bird ![][misc] ![][javascript] ![][python]
+- [SeeTeeEffedIn](https://github.com/NUSGreyhats/greyctf26-challs/tree/main/quals/web/seeteeeffed-in) ([source](https://github.com/jloh02/greyctf-2026-seeteeeffed-in)) — PostgreSQL refint cascade SQL injection ![][web] ![][python] ![][postgresql]
+- [Go Going Goen](https://github.com/NUSGreyhats/greyctf26-challs/tree/main/quals/web/go_going_goen) ([source](https://github.com/jloh02/greyctf-2026-go-going-goen)) — Chain PostgreSQL READ COMMITTED race conditions across three stages ![][web] ![][python] ![][ts] ![][postgresql]
+
+</details>
+
+---
+
+## Technical Journey
+
+<details>
+<summary><b>Robotics & embedded</b></summary>
+
+- [VEX Robotics](https://jloh02.github.io/robotics) (2015–2020) — multithreading, PID, odometry ![][cpp]
+- RoboCup (2016–2017) ![][arduino] ![][cpp]
+- [Arduino / SICC](https://github.com/jloh02/SICC) (2016–2020) ![][arduino] ![][cpp]
+
+</details>
+
+<details>
+<summary><b>Backend & infrastructure</b></summary>
+
+- [Java / Spring — SGRouter](https://github.com/jloh02/SGRouter) (2017–2021) — multithreaded Dijkstra transit routing ![][spring] ![][java]
+- [Golang backend](https://github.com/jloh02/valorant-discord-presence/tree/master/web-backend) ![][golang]
+- GovTech WOGAA — Node.js, Express, Redis, AWS CDK
+- TikTok / Tencent — large-scale payment & wallet backends
+
+</details>
+
+<details>
+<summary><b>Frontend & desktop</b></summary>
+
+- Android (2017) ![][android] ![][java]
+- Dart / Flutter (2018–2021) ![][flutter] ![][dart]
+- [Vue + Electron + Vite](https://github.com/jloh02/valorant-chat-client/) (2022) ![][vue] ![][ts] ![][electron] ![][vite]
+- [NUSMods](https://github.com/nusmodifications/nusmods), [Treeckle](https://github.com/CAPTxTreeckle/Treeckle-3.0) ![][react] ![][ts] ![][docker]
+
+</details>
+
+<details>
+<summary><b>Security, ML & misc</b></summary>
+
+- [Capture the Flag](https://jloh02.github.io/ctf) — competing & authoring (2018–present) ![][python]
+- Machine learning (2019–2020) ![][keras] ![][tensorflow] ![][python]
+- [C++ Windows + Discord presence](https://github.com/jloh02/valorant-discord-presence) (2021) ![][cpp]
+- edX SQL certifications (2024)
+
+</details>
 
 
 [android]: https://img.shields.io/badge/Platform-Android-informational?style=flat&logo=android&logoColor=white&color=3DDC84
