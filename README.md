@@ -89,9 +89,9 @@ Challenges for [NUS Greyhats](https://github.com/NUSGreyhats) events — [full l
 
 | | | |
 |---|---|:---:|
-| [67](https://github.com/NUSGreyhats/greyctf26-challs/tree/main/quals/misc/67) | Reach score 67 in server-verified hand-gesture Flappy Bird ([source](https://github.com/jloh02/greyctf-2026-67)) | ![][misc] ![][javascript] ![][python] |
-| [SeeTeeEffedIn](https://github.com/NUSGreyhats/greyctf26-challs/tree/main/quals/web/seeteeeffed-in) | PostgreSQL refint cascade SQL injection ([source](https://github.com/jloh02/greyctf-2026-seeteeeffed-in)) | ![][web] ![][python] ![][postgresql] |
-| [Go Going Goen](https://github.com/NUSGreyhats/greyctf26-challs/tree/main/quals/web/go_going_goen) | Chain PostgreSQL READ COMMITTED race conditions across three stages ([source](https://github.com/jloh02/greyctf-2026-go-going-goen)) | ![][web] ![][python] ![][ts] ![][postgresql] |
+| [67](https://github.com/jloh02/greyctf-2026-67) | Reach score 67 in server-verified hand-gesture Flappy Bird | ![][misc] ![][javascript] ![][python] |
+| [SeeTeeEffedIn](https://github.com/jloh02/greyctf-2026-seeteeeffed-in) | PostgreSQL refint cascade SQL injection | ![][web] ![][python] ![][postgresql] |
+| [Go Going Goen](https://github.com/jloh02/greyctf-2026-go-going-goen) | Chain PostgreSQL READ COMMITTED race conditions across three stages | ![][web] ![][python] ![][ts] ![][postgresql] |
 
 ---
 
