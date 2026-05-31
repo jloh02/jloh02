@@ -20,36 +20,38 @@ I'm a hacker (in both senses, probably) who builds at the intersection of hardwa
 
 ### Cybersecurity & CTF
 
-| | |
-|---|---|
-| **2nd** | [BrainHack CDDC 2024](https://www.linkedin.com/in/jonathan-loh-junhao) — DSTA Inter-Uni Capture-the-Flag |
-| **3rd** | [STACK the Flags 2020](https://jloh02.github.io/ctf/stack-the-flags-2020) — GovTech 48-hour jeopardy CTF |
-| **Silver** | National Olympiad in Informatics 2020 (C++) |
-| **Award** | Cyberthon 2020 — 3rd overall & Data Science category |
+| | | |
+|---|---|:---:|
+| **2nd** | [BrainHack CDDC 2024](https://www.linkedin.com/in/jonathan-loh-junhao) — DSTA Inter-Uni Capture-the-Flag | ![][python] ![][forensics] |
+| **3rd** | [STACK the Flags 2020](https://jloh02.github.io/ctf/stack-the-flags-2020) — GovTech 48-hour jeopardy CTF | ![][python] ![][forensics] |
+| **Silver** | National Olympiad in Informatics 2020 | ![][cpp] |
+| **Award** | Cyberthon 2020 — 3rd overall & Data Science category | ![][python] |
 
 ### Hackathons
 
-| | |
-|---|---|
-| **1st + Most Innovative** | [STACK the Codes 2022](https://blog.jloh02.dev/projects/stack-the-codes-2022/) |
-| **Most Entertaining** | [Hack&Roll 2023](https://devpost.com/software/attention-hdkf69) — *Attention*, PvP maze game (Socket.io backend) |
-| **Top 8** | [Hack&Roll 2022](https://devpost.com/software/capslock) — *CAPSLOCK*, 1v1 typing game (high school participant) |
+| | | |
+|---|---|:---:|
+| **1st + Most Innovative** | [STACK the Codes 2022](https://blog.jloh02.dev/projects/stack-the-codes-2022/) — *VulnGuard* VS Code extension | ![][javascript] |
+| **Most Entertaining** | [Hack&Roll 2023](https://devpost.com/software/attention-hdkf69) — *Attention*, PvP maze game (Socket.io backend) | ![][javascript] |
+| **Top 8** | [Hack&Roll 2022](https://devpost.com/software/capslock) — *CAPSLOCK*, 1v1 typing game (high school participant) | ![][javascript] |
 
 ### Robotics & Hardware
 
-| | |
-|---|---|
-| **3rd + Math Division Champion** | [VEX Robotics World Championship 2019](https://github.com/jloh02/VEX-Worlds-2019-8059A) — Division Champions, Round Robin Finals |
-| **1st + Excellence** | Singapore VRC National Championship 2019 |
-| **Silver** | Zhang Heng Engineering Award — [FIRST Global Challenge 2019](https://jloh02.github.io/robotics) (Team Singapore) |
-| **Protocol** | [SICC](https://github.com/jloh02/SICC) — custom half-duplex serial protocol for reliable Arduino IC communication |
+| | | |
+|---|---|:---:|
+| **3rd + Math Division Champion** | [VEX Robotics World Championship 2019](https://github.com/jloh02/VEX-Worlds-2019-8059A) — Division Champions, Round Robin Finals | ![][cpp] |
+| **1st + Excellence** | Singapore VRC National Championship 2019 | ![][cpp] |
+| **Silver** | Zhang Heng Engineering Award — [FIRST Global Challenge 2019](https://blog.jloh02.dev/robotics/first-global-challenge/) (Team Singapore) | ![][java] |
+| **Custom Arduino Protocol** | [SICC](https://github.com/jloh02/SICC) — custom half-duplex serial protocol for reliable Arduino IC communication | ![][arduino] ![][cpp] |
 
 ### Academic & Community
 
-- [**NUSMods**](https://nusmods.com) ([source](https://github.com/nusmodifications/nusmods)) — Maintainer (2023–2025)
-- [**Treeckle**](https://treeckle.com) ([source](https://github.com/CAPTxTreeckle/Treeckle-3.0)) — Tech Development Head, venue booking for CAPT (~100 MAU)
-- **CAPT Mass Recruitment** — Led tooling for 20+ committees, 200+ applicants ([bot](https://github.com/Capt-Tech/mass-recruitment-bot))
-- **Greyhats × CNA** — Built screen-recording tooling for [Talking Point: repair shop privacy](https://www.channelnewsasia.com/cna-insider/phone-laptop-repair-shops-snooping-copying-data-tech-devices-4862646)
+| | | |
+|---|---|:---:|
+| **NUSMods** | [**NUSMods**](https://nusmods.com) ([source](https://github.com/nusmodifications/nusmods)) — Maintainer (2023–2025) | ![][react] ![][ts] |
+| **Treeckle** | [**Treeckle**](https://treeckle.com) ([source](https://github.com/CAPTxTreeckle/Treeckle-3.0)) — Tech Development Head, venue booking for CAPT (~100 MAU) | ![][react] ![][ts] ![][python] ![][docker] |
+| **CAPT Mass Recruitment** | Led tooling for 20+ committees, 200+ applicants ([bot](https://github.com/Capt-Tech/mass-recruitment-bot)) | ![][python] |
+| **Greyhats × CNA** | Built screen-recording tooling for [Talking Point: repair shop privacy](https://www.channelnewsasia.com/cna-insider/phone-laptop-repair-shops-snooping-copying-data-tech-devices-4862646) | ![][python] ![][forensics] |
 
 ---
 
@@ -114,8 +116,6 @@ Challenges for [NUS Greyhats](https://github.com/NUSGreyhats) events — [full l
 
 - [Java / Spring — SGRouter](https://github.com/jloh02/SGRouter) (2017–2021) — multithreaded Dijkstra transit routing ![][spring] ![][java]
 - [Golang backend](https://github.com/jloh02/valorant-discord-presence/tree/master/web-backend) ![][golang]
-- GovTech WOGAA — Node.js, Express, Redis, AWS CDK
-- TikTok / Tencent — large-scale payment & wallet backends
 
 </details>
 
