@@ -59,85 +59,75 @@ I'm a hacker (in both senses, probably) who builds at the intersection of hardwa
 
 Challenges for [NUS Greyhats](https://github.com/NUSGreyhats) events — [full list on my blog](https://jloh02.github.io/ctf).
 
-<details>
-<summary><b>Hackbash 2024</b></summary>
+### Hackbash 2024
 
-- [Walk Down Memory Lane](https://github.com/NUSGreyhats/hackbash-2024-public/tree/main/forensics/finals/Walk%20Down%20Memory%20Lane) — Volatility memory forensics, process analysis, and file carving from a Windows dump ![][forensics] ![][python]
+| | | |
+|---|---|:---:|
+| [Walk Down Memory Lane](https://github.com/NUSGreyhats/hackbash-2024-public/tree/main/forensics/finals/Walk%20Down%20Memory%20Lane) | Volatility memory forensics, process analysis, and file carving from a Windows dump | ![][forensics] ![][python] |
 
-</details>
+### GreyCTF 2024
 
-<details>
-<summary><b>GreyCTF 2024</b></summary>
+| | | |
+|---|---|:---:|
+| [Maze Runner](https://github.com/NUSGreyhats/greyctf24-challs-public/tree/main/quals/misc/Maze-Runner) | Use dijkstra to solve a maze problem where you can phase through walls | ![][misc] |
+| [Poly Playground](https://github.com/NUSGreyhats/greyctf24-challs-public/tree/main/quals/misc/Poly-Playground) | Derive polynomial coefficients from their roots | ![][misc] |
+| [All About Timing](https://github.com/NUSGreyhats/greyctf24-challs-public/tree/main/quals/misc/All-About-Timing) | Predict tokens seeded from connection time in seconds | ![][misc] |
 
-- [Maze Runner](https://github.com/NUSGreyhats/greyctf24-challs-public/tree/main/quals/misc/Maze-Runner) — Phase through maze walls via WebSocket movement logic bug ![][misc]
-- [Poly Playground](https://github.com/NUSGreyhats/greyctf24-challs-public/tree/main/quals/misc/Poly-Playground) — Derive polynomial coefficients from their roots ![][misc]
-- [All About Timing](https://github.com/NUSGreyhats/greyctf24-challs-public/tree/main/quals/misc/All-About-Timing) — Predict tokens seeded from connection time in seconds ![][misc]
+### Welcome CTF 2025
 
-</details>
+| | | |
+|---|---|:---:|
+| [NUS Geographer](https://github.com/NUSGreyhats/welcome-ctf-2025-public/tree/main/misc/nus_geographer) | Decode Bluey's NUS walk diary into a hidden message | ![][misc] |
 
-<details>
-<summary><b>Welcome CTF 2025</b></summary>
+### GreyCTF 2025
 
-- [NUS Geographer](https://github.com/NUSGreyhats/welcome-ctf-2025-public/tree/main/misc/nus_geographer) — Decode Bluey's NUS walk diary into a hidden message ![][misc]
+| | | |
+|---|---|:---:|
+| [Rainbow Road](https://github.com/NUSGreyhats/greyctf25-challs-public/tree/main/qualifiers/web/rainbow-road) | Abuse WebSocket disconnect state to bypass maze walls ([source](https://github.com/jloh02/greyctf-2025-challs-rainbow-road)) · [writeup](https://blog.jloh02.dev/ctf/greyctf-rainbow-road/) | ![][web] ![][javascript] |
 
-</details>
+### GreyCTF 2026
 
-<details>
-<summary><b>GreyCTF 2025</b></summary>
-
-- [Rainbow Road](https://github.com/NUSGreyhats/greyctf25-challs-public/tree/main/qualifiers/web/rainbow-road) ([source](https://github.com/jloh02/greyctf-2025-challs-rainbow-road)) — Abuse WebSocket disconnect state to bypass maze walls ![][web] ![][javascript] · [writeup](https://blog.jloh02.dev/ctf/greyctf-rainbow-road/)
-
-</details>
-
-<details>
-<summary><b>GreyCTF 2026</b></summary>
-
-- [67](https://github.com/NUSGreyhats/greyctf26-challs/tree/main/quals/misc/67) ([source](https://github.com/jloh02/greyctf-2026-67)) — Reach score 67 in server-verified hand-gesture Flappy Bird ![][misc] ![][javascript] ![][python]
-- [SeeTeeEffedIn](https://github.com/NUSGreyhats/greyctf26-challs/tree/main/quals/web/seeteeeffed-in) ([source](https://github.com/jloh02/greyctf-2026-seeteeeffed-in)) — PostgreSQL refint cascade SQL injection ![][web] ![][python] ![][postgresql]
-- [Go Going Goen](https://github.com/NUSGreyhats/greyctf26-challs/tree/main/quals/web/go_going_goen) ([source](https://github.com/jloh02/greyctf-2026-go-going-goen)) — Chain PostgreSQL READ COMMITTED race conditions across three stages ![][web] ![][python] ![][ts] ![][postgresql]
-
-</details>
+| | | |
+|---|---|:---:|
+| [67](https://github.com/NUSGreyhats/greyctf26-challs/tree/main/quals/misc/67) | Reach score 67 in server-verified hand-gesture Flappy Bird ([source](https://github.com/jloh02/greyctf-2026-67)) | ![][misc] ![][javascript] ![][python] |
+| [SeeTeeEffedIn](https://github.com/NUSGreyhats/greyctf26-challs/tree/main/quals/web/seeteeeffed-in) | PostgreSQL refint cascade SQL injection ([source](https://github.com/jloh02/greyctf-2026-seeteeeffed-in)) | ![][web] ![][python] ![][postgresql] |
+| [Go Going Goen](https://github.com/NUSGreyhats/greyctf26-challs/tree/main/quals/web/go_going_goen) | Chain PostgreSQL READ COMMITTED race conditions across three stages ([source](https://github.com/jloh02/greyctf-2026-go-going-goen)) | ![][web] ![][python] ![][ts] ![][postgresql] |
 
 ---
 
 ## Technical Journey
 
-<details>
-<summary><b>Robotics & embedded</b></summary>
+### Robotics & embedded
 
-- [VEX Robotics](https://jloh02.github.io/robotics) (2015–2020) — multithreading, PID, odometry ![][cpp]
-- RoboCup (2016–2017) ![][arduino] ![][cpp]
-- [Arduino / SICC](https://github.com/jloh02/SICC) (2016–2020) ![][arduino] ![][cpp]
+| | | |
+|---|---|:---:|
+| **VEX Robotics** | [Portfolio](https://jloh02.github.io/robotics) (2015–2020) — multithreading, PID, odometry | ![][cpp] |
+| **RoboCup** | Robot Soccer 2016–2017 | ![][arduino] ![][cpp] |
+| **Arduino / SICC** | [SICC protocol](https://github.com/jloh02/SICC) (2016–2020) - A custom synchronous protocol for inter-IC communication based off I2C | ![][arduino] ![][cpp] |
 
-</details>
+### Backend & infrastructure
 
-<details>
-<summary><b>Backend & infrastructure</b></summary>
+| | | |
+|---|---|:---:|
+| **SGRouter** | [Java / Spring](https://github.com/jloh02/SGRouter) (2017–2021) — multithreaded Dijkstra transit routing | ![][spring] ![][java] |
+| **Valorant presence** | [Golang backend](https://github.com/jloh02/valorant-discord-presence/tree/master/web-backend) | ![][golang] |
 
-- [Java / Spring — SGRouter](https://github.com/jloh02/SGRouter) (2017–2021) — multithreaded Dijkstra transit routing ![][spring] ![][java]
-- [Golang backend](https://github.com/jloh02/valorant-discord-presence/tree/master/web-backend) ![][golang]
+### Frontend & desktop
 
-</details>
+| | | |
+|---|---|:---:|
+| **Android** | 2017 | ![][android] ![][java] |
+| **Flutter** | 2018–2021 | ![][flutter] ![][dart] |
+| **Valorant chat client** | [Vue + Electron + Vite](https://github.com/jloh02/valorant-chat-client/) (2022) | ![][vue] ![][ts] ![][electron] ![][vite] |
+| **NUSMods · Treeckle** | [NUSMods](https://github.com/nusmodifications/nusmods) · [Treeckle](https://github.com/CAPTxTreeckle/Treeckle-3.0) | ![][react] ![][ts] ![][docker] |
 
-<details>
-<summary><b>Frontend & desktop</b></summary>
+### Security, ML & misc
 
-- Android (2017) ![][android] ![][java]
-- Dart / Flutter (2018–2021) ![][flutter] ![][dart]
-- [Vue + Electron + Vite](https://github.com/jloh02/valorant-chat-client/) (2022) ![][vue] ![][ts] ![][electron] ![][vite]
-- [NUSMods](https://github.com/nusmodifications/nusmods), [Treeckle](https://github.com/CAPTxTreeckle/Treeckle-3.0) ![][react] ![][ts] ![][docker]
-
-</details>
-
-<details>
-<summary><b>Security, ML & misc</b></summary>
-
-- [Capture the Flag](https://jloh02.github.io/ctf) — competing & authoring (2018–present) ![][python]
-- Machine learning (2019–2020) ![][keras] ![][tensorflow] ![][python]
-- [C++ Windows + Discord presence](https://github.com/jloh02/valorant-discord-presence) (2021) ![][cpp]
-- edX SQL certifications (2024)
-
-</details>
+| | | |
+|---|---|:---:|
+| **Capture the Flag** | [Competing & authoring](https://jloh02.github.io/ctf) (2018–present) | ![][python] |
+| **Machine learning** | 2019–2020 | ![][keras] ![][tensorflow] ![][python] |
+| **Valorant presence** | [C++ Windows + Discord](https://github.com/jloh02/valorant-discord-presence) (2021) | ![][cpp] |
 
 
 [android]: https://img.shields.io/badge/Platform-Android-informational?style=flat&logo=android&logoColor=white&color=3DDC84
