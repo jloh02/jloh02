@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Jonathan Loh&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 37, Total Commits  (last year) : 158, Total PRs: 247, Total Issues: 214, Contributed to (last year): 8</desc>
+        <desc id="descId">Total Stars Earned: 37, Total Commits  (last year) : 293, Total PRs: 262, Total Issues: 217, Contributed to (last year): 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 81.64218976580315;
+        stroke-dashoffset: 72.81407528268393;
       }
     }
   
@@ -146,7 +146,7 @@
           Top
         </text>
         <text x="-5" y="12" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="percentile-rank-value" class="rank-percentile-text">
-          32.5%
+          29.0%
         </text>
       
         </g>
@@ -180,7 +180,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >158</text>
+      >293</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -195,7 +195,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >247</text>
+      >262</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -210,7 +210,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >214</text>
+      >217</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
